@@ -49,7 +49,7 @@
                 "type": "paragraph",
                 "children": [
                   {
-                    "text": "Ask again when you need to update other NeedIt records."
+                    "text": "Bye Bye! Ask again when you need to update other NeedIt records."
                   }
                 ]
               }
@@ -872,14 +872,14 @@
         <sys_created_on>2023-03-28 19:01:41</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>ec5eaa2a9cb521107f44719ae9cee526</sys_id>
-        <sys_mod_count>22</sys_mod_count>
+        <sys_mod_count>23</sys_mod_count>
         <sys_name>Update NeedIt Records</sys_name>
         <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_snc_needit_virtu">5eacaae69cb521107f44719ae9cee524</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt Virtual Agent Conversations">5eacaae69cb521107f44719ae9cee524</sys_scope>
         <sys_update_name>sys_cb_topic_ec5eaa2a9cb521107f44719ae9cee526</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-03-28 21:21:50</sys_updated_on>
+        <sys_updated_on>2023-03-29 14:28:58</sys_updated_on>
         <triggerable_by_notification>false</triggerable_by_notification>
         <type>STANDARD</type>
         <variables/>
